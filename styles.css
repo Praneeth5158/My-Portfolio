@@ -78,11 +78,11 @@ i{
 }
 .skills i{
     font-size:60px;
+    align-items: center;
     color:white;
     display:flex;
     flex-direction: column;
     margin-left:40px;
-    align-items: center;
 }
 .skills{
     display:flex;

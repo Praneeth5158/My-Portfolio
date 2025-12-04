@@ -1,6 +1,6 @@
 
 body{
-        font-family:Georgia, 'Times New Roman', Times, serif;
+    font-family:Georgia, 'Times New Roman', Times, serif;
      display:flex;
      flex-direction:column;
      justify-content:center;
@@ -90,4 +90,13 @@ i{
 .skills p{
         margin-left:40px;
 
+}
+
+.back p,
+.back i{
+    position: fixed;
+    top:5px;
+    left:10px;
+    color:white;
+    font-size: 30px ;
 }
